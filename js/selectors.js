@@ -2,5 +2,6 @@
 
 
 
-
+paragraphSelector(){
 $('p')
+}
