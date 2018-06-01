@@ -21,3 +21,4 @@ function divSelector(){
   
   return $('.pics');
 }
+
