@@ -2,6 +2,6 @@
 
 
 
-paragraphSelector(){
+function paragraphSelector(){
 $('p')
 }
