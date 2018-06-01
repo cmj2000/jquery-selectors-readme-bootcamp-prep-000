@@ -8,5 +8,5 @@ return $('p')
 
 function lastImageSelector(){
   
-  return $('');
+  return $('img:last');
 }
